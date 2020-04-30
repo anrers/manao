@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <login>arnesbog</login>
+        <password>sole10adc3949ba59abbe56e057f20f883e</password>
+        <email>pyzhykvv@gmail.com</email>
+        <name>name</name>
+    </user>
+    <user>
+        <login>arnesbog3</login>
+        <password>sole10adc3949ba59abbe56e057f20f883e</password>
+        <email>pyzhykvv2@gmail.com</email>
+        <name>test</name>
+    </user>
+    <user>
+        <login>arnesbog4</login>
+        <password>solfcea920f7412b5da7be0cf42b8c93759</password>
+        <email>pyzhykvv4@gmail.com</email>
+        <name>qwert</name>
+    </user>
+</users>

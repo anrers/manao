@@ -1,0 +1,22 @@
+.input {
+    margin: 5px;
+    width: 200px;
+}
+
+.regist {
+    width: 20%;
+    border: 2px solid black;
+    margin-left: 40%;
+}
+.inner {
+    margin-left: 40px;
+}
+
+h4 {
+    margin-left: 20px;
+}
+
+.hello {
+    margin-top: 20%;
+    margin-left: 45%;
+}
