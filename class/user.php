@@ -46,7 +46,7 @@ class User
      * Проверяет логин: не меньше, чем 2 символа
      */
     public static function checkLoginLen($login) {
-    if (strlen($name) >= 3) {
+    if (strlen($login) >= 3) {
         return true;
     }
     return false;
